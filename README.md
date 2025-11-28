@@ -16,3 +16,6 @@ Fonctionnalités principales :
 Tous les blocs (adder, sub, mult, div) sont instanciés comme composants séparés, facilitant la simulation et la maintenance.
 
 Testbench inclus pour vérifier toutes les opérations et drapeaux.
+
+
+<img width="603" height="332" alt="image" src="https://github.com/user-attachments/assets/e55cb079-e154-4fc2-b01d-75c1de203b44" />
